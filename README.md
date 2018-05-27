@@ -7,4 +7,4 @@
 # The aim :
 # -	Check that the isolated instance is able to ping google.com, despite its private location
 # 
-# attached step-by-step documentation
+# step-by-step guide: aws nat bastion project documentation.docx
